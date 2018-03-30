@@ -1,6 +1,6 @@
 <template>
   <div class="member-profile">
-    <h1>Hola! My name is {{ firstName }} {{ lastName }}</h1>
+    <h1>Ahoy! My name is {{ firstName }} {{ lastName }}</h1>
     <p> I am a "{{ title }}" in the {{ office }} office.</p>
   </div>
 </template>
